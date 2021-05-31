@@ -6,9 +6,17 @@ import android.content.Context;
 import java.net.URLEncoder;
 
 public class Stables {
-//   public static String baseUrl="http://192.168.1.5:80/";
+//  use your local ipv4 to connect your android mobile device
+//   public static String baseUrl="http://192.168.1.5:8000/";
+
     // use the ip 10.0.2.2 to run the app in emulator
     public static String baseUrl="http://10.0.2.2:8000/";
+
+    //use heroku host
+//    public static String baseUrl="http://helaosu.herokuapp.com/";
+
+    // digitalOcean loadbalancer ip
+//    public static String baseUrl="http://174.138.124.229/";
 
     public String getLoginController(String username,String password){
         return baseUrl+"api/mobilelogin?username="+username+"&password="+password;
