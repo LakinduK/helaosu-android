@@ -20,3 +20,8 @@ https://slides.com/lakinduk/helaosu
 `    public static String baseUrl="http://10.0.2.2:8000/";`
 
 * run the program in emulator or physical device
+
+if you found this project valueable, try deploying it in your own digitalocean droplet. 👦 </br>
+(affiliate link)  </br>
+</br>
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=a871472da2d9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
