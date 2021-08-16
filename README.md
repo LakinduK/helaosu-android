@@ -8,7 +8,7 @@ https://slides.com/lakinduk/helaosu
 
 ![image](https://user-images.githubusercontent.com/38062348/129637860-67989ed5-ae41-4051-a05b-5c931b19c982.png)
 
-## To Install and Run the Laravel project
+## To Install and Run the project
 
 ### prerequisite -
 * clone and deploy the 'Helaosu' web app & API project from the link above.
